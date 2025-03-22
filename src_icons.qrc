@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>resources/x-mark-64.png</file>
+    <file>resources/sidebar2.png</file>
+    <file>resources/iStock-471629610-Converted.png</file>
+    <file>resources/clinic-64.png</file>
+    <file>resources/contacts-64.png</file>
+    <file>resources/group-64.png</file>
+    <file>resources/house-64.png</file>
+    <file>resources/support-64.png</file>
+  </qresource>
+</RCC>

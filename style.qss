@@ -1,0 +1,21 @@
+/* Style for icons_only_widget */
+QWidget#icons_only_widget {
+    background-color: #313a46;  /* black background */
+}
+
+/* Style for keys_only_widget */
+QWidget#keys_only_widget {
+    background-color: #313a46;  /* black background */
+}
+
+/* Optional: Style buttons inside the widgets */
+QPushButton {
+    background-color: transparent; /* Transparent background for buttons */
+    border: none;
+    color: white; /* Icon/text color if needed */
+}
+
+/* Optional: Add hover effect */
+QPushButton:hover {
+    background-color:rgb(248, 241, 241);  /* dark gray hover effect */
+}
